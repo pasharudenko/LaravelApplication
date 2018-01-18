@@ -1,0 +1,19 @@
+.mynavbar .navbar {
+  padding-top: 100px;
+  border-bottom: 1px solid #dddddd; }
+
+.mynavbar .border-class {
+  border-right: 1px solid #dddddd;
+  border-bottom: 1px solid #dddddd; }
+
+.mynavbar h5 {
+  border-bottom: 1px solid #dddddd; }
+
+.mynavbar .navbar-brand {
+  font-weight: bold;
+  color: gray; }
+
+.mynavbar .navbar-brand:hover {
+  color: gray; }
+
+
